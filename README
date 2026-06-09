@@ -1,9 +1,4 @@
-Štai išsamus ir aiškus README.md failas, pritaikytas tavo pateiktam Streamlit projektui. Jame aprašyta projekto paskirtis, veikimo principas, diegimo žingsniai bei konfigūracija.
-
-Gali tiesiog nukopijuoti žemiau esantį tekstą ir įklijuoti jį į naują failą pavadinimu README.md savo projekto pagrindiniame kataloge.
-
-Markdown
-# 🤖 Programmer Assistant (Programuotojo Asistentas)
+🤖 Programmer Assistant (Programuotojo Asistentas)
 
 Tai „Streamlit“ pagrindu sukurta interaktyvi aplikacija, veikianti kaip specializuotas Python kodavimo asistentas. Programėlė naudoja **Google Gemini 2.5 Flash** modelį, kad padėtų vartotojams taisyti, tobulinti arba kurti naują Python kodą realiuoju laiku.
 
